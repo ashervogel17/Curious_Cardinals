@@ -1,5 +1,5 @@
 """
-Lesson: Fundamentals
+Module: Fundamentals
 Topic: Print Statements
 """
 
