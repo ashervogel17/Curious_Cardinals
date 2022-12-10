@@ -9,9 +9,9 @@ def print_name():
 def print_hometown():
     print("I am from Los Angeles, California.")
 
-def print_food():
-    print("My favorite food is sushi.")
+def print_activity():
+    print("In my free time, I like to play soccer.")
 
 print_name()
 print_hometown()
-print_food()
+print_activity()

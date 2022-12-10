@@ -1,8 +1,14 @@
-# Lesson 1: Fundamentals
+# Module 1: Fundamentals
 
 ## Topics 
 
-1. [print statements](print_statements.py)
-2. [functions](functions.py)
-3. [exercise!](exercise1.md) - [solution](exercise1.py)
-4. Abstraction
+1. [Print statements](print_statements.py)
+2. [Functions and the program counter](functions.py)
+3. [Exercise!](exercise1.md) - [solution](exercise1.py)
+4. [Variables](variables.py)
+5. [More on functions](functions2.py)
+6. Exercise 2
+
+
+Graphics coordinates
+Good coding style

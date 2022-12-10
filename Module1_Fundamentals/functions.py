@@ -12,3 +12,11 @@ def say_goodbye():
 
 say_hello()
 say_goodbye()
+
+# Q: What does the program counter do here?
+
+# Q: Why would you use functions at all?
+# A:
+#   - makes code more readable
+#   - allows you to reuse pieces of code without doing massive refactoring
+#   - 
