@@ -28,6 +28,11 @@ def print_introduction(name, age):
     print_name(name)
     print("I am " + str(age) + " years old.")
 
+# Functions that return a value - explain what is means for a function to return a value
+def add_10(num):
+    result = num + 10
+    return result
+
 # Introduce library functions - part of what makes Python so awesome is how many libraries people have built that you can use right out of the box!
 # e.g.
 from math import sqrt

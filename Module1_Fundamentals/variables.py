@@ -85,5 +85,3 @@ print(my_string + " apples")
 #   - resuse values
 #   - use values to compute other values
 #   - make it easy to change the behavior of code
-
-# e.g.

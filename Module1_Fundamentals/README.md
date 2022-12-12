@@ -7,8 +7,5 @@
 3. [Exercise!](exercise1.md) - [solution](exercise1.py)
 4. [Variables](variables.py)
 5. [More on functions](functions2.py)
-6. Exercise 2
-
-
-Graphics coordinates
-Good coding style
+6. [User input](input.py)
+6. [Exercise!](exercise2.md) - [solution](exercise2.py)
