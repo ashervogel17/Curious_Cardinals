@@ -5,7 +5,8 @@ Topic: Functions
 
 # Explain how to define a function:
 
-def say_hello():
+def say_hello(): # function header
+    # function body
     print("hello!")
 
 def say_goodbye():

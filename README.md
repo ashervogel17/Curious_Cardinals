@@ -17,3 +17,4 @@ I recommend setting your students up with PyCharm as their first IDE, as it is s
 # Modules
 
 1. [Module 1: Fundamentals](Module1_Fundamentals)
+2. [Module 2: Loops and Conditions](Module2_LoopsAndConditions)
